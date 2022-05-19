@@ -4,5 +4,5 @@ hello!
 beijing
 beijing
 hello!
-beijing
 beijing master test
+beijing hot-fix test
